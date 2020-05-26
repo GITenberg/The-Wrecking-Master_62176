@@ -1,0 +1,39 @@
+_repo: The-Wrecking-Master_62176
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+creator:
+  author:
+    agent_name: Paine, Ralph Delahaye
+    alias: Paine, Ralph D. (Ralph Delahaye)
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '1113'
+    url: http://www.gutenberg.org/2009/agents/1113
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
+description: ''
+gutenberg_issued: '2020-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62176'
+  lccn: '11022131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Florida -- Juvenile fiction'
+- !lcsh 'Ships -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Salvage -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcc 'PZ'
+- GITenberg
+title: The Wrecking Master
+url: http://www.gutenberg.org/ebooks/62176
